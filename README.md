@@ -10,3 +10,7 @@ written in english.
 - UCI Machine Learning Repository has a collection of sms messages – SMS Spam Dataset. It
 - contains:
 A total of 4827 ham and 747 spam = 5574 messages 
+## File Description 
+- 'spam.py' file has the main program. GUI is build with tkinter.
+- Execute the file in the terminal with : 'python spam.py'
+- 'spamDetection.ipynb' has the analysis of the dataset. 
