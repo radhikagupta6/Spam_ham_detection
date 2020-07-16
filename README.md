@@ -10,6 +10,8 @@ written in english.
 - UCI Machine Learning Repository has a collection of sms messages – SMS Spam Dataset. It
 - contains:
 A total of 4827 ham and 747 spam = 5574 messages 
+## Classification technique
+- The NaiveBayes classifier is used here. 
 ## File Description 
 - 'spam.py' file has the main program. GUI is build with tkinter.
 - Execute the file in the terminal with : 'python spam.py'
