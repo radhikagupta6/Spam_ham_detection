@@ -5,7 +5,7 @@
 - SMSes are limited in length, number of features that can be used for classification is small.
 - Text messages generally include abbreviations, informal language, text-speak, other languages
 written in english.
-23
+
 ## Dataset:
 - UCI Machine Learning Repository has a collection of sms messages – SMS Spam Dataset. It
 - contains:
