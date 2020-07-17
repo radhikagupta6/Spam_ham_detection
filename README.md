@@ -5,10 +5,9 @@
 - SMSes are limited in length, number of features that can be used for classification is small.
 - Text messages generally include abbreviations, informal language, text-speak, other languages
 written in english.
-
 ## Dataset:
-- UCI Machine Learning Repository has a collection of sms messages – SMS Spam Dataset. It
-- contains:
+- UCI Machine Learning Repository has a collection of sms – SMS Spam Dataset. 
+- It contains:
 A total of 4827 ham and 747 spam = 5574 messages 
 ## Classification technique
 - The NaiveBayes classifier is used here. 
